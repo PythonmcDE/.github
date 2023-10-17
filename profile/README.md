@@ -57,7 +57,7 @@ We want to thank everyone who was part of the PythonMC Minecraft School Network 
 
 <div align="center">
   :heart_eyes: Thanks for watching our profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Hash-HQ
+  &copy; 2020-2023 PythonMC by Felix Hennerich
 </div>
 
 # 
